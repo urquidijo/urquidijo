@@ -38,8 +38,20 @@ Me gusta resolver problemas complejos, aprender nuevas herramientas y contribuir
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
+   <a href="https://github.com/urquidijo">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=urquidijo&theme=algolia" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=urquidijo&theme=algolia" />
+   </a>
+</p>
+
+
+---
+
+## 📈 Lenguajes más usados
+
+<p align="center">
   <a href="https://github.com/urquidijo">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=urquidijo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=urquidijo&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 
